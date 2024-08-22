@@ -22,3 +22,11 @@ It is secure, fast and powerful
 It has huge community support (tens of millions of developers)
 Java is an object oriented language which gives a clear structure to programs and allows code to be reused, lowering development costs
 As Java is close to C++ and C#, it makes it easy for programmers to switch to Java or vice versa
+
+James Gosling, Mike Sheridan, and Patrick Naughton initiated the Java language project in June 1991. The small team of sun engineers called Green Team.
+The history of Java is very interesting. Java was originally designed for interactive television, but it was too advanced technology for the digital cable television industry at the time. The history of Java starts with the Green Team. Java team members (also known as Green Team), initiated this project to develop a language for digital devices such as set-top boxes, televisions, etc. 
+
+
+
+
+
